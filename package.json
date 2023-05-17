@@ -12,7 +12,7 @@
     "is-positive": "github:kevva/is-positive#1187a61f2e18cf7c11c23d61a1bd52b9fa6a5fdf"
   },
   "devDependencies": {
-    "cachito-npm-without-deps": "git+https://github.com/cachito-testing/cachito-npm-without-deps.git"
+    "alias": "git+https://github.com/cachito-testing/cachito-npm-without-deps.git"
   },
   "workspaces": [
     "foo"
