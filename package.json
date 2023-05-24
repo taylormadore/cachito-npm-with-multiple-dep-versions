@@ -9,12 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "is-positive": "github:kevva/is-positive#1187a61f2e18cf7c11c23d61a1bd52b9fa6a5fdf"
-  },
-  "devDependencies": {
-    "cachito-npm-without-deps": "git+https://github.com/cachito-testing/cachito-npm-without-deps.git"
-  },
-  "workspaces": [
-    "foo"
-  ]
+    "cachito-npm-with-deps": "github:cachito-testing/cachito-npm-with-deps",
+    "fecha": "https://github.com/taylorhakes/fecha/archive/b0f5695f4ec48d79e381c056fc6f4dda29025b43.tar.gz"
+  }
 }
