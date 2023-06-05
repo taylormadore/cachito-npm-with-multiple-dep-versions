@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "is-positive": "github:kevva/is-positive#1187a61f2e18cf7c11c23d61a1bd52b9fa6a5fdf"
+    "is-positive": "github:kevva/is-positive#1187a61f2e18cf7c11c23d61a1bd52b9fa6a5fdf",
+    "npm": "9.6.7"
   },
   "devDependencies": {
     "cachito-npm-without-deps": "git+https://github.com/cachito-testing/cachito-npm-without-deps.git"
